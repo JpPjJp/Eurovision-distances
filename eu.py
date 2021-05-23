@@ -8,30 +8,30 @@ import copy
 
 options = Options()
 options.headless = True
-#gather data for points and places
-countryList = []
+
 for year in range(2000, 2020):
-    #year = 2017
 
     xpath = "//a[@href='/eurovision/"+str(year)+"']"
     euDriver = webdriver.Firefox(options=options)
     euDriver.get("https://eurovisionworld.com/eurovision/"+str(year))
+    
     place = euDriver.find_elements_by_xpath("//div[@id='voting_table']/table[1]/tbody/tr/td[1]")
     country = euDriver.find_elements_by_xpath("//div[@id='voting_table']/table[1]/tbody/tr/td[2]")
     points = euDriver.find_elements_by_xpath("//div[@id='voting_table']/table[1]/tbody/tr/td[4]")
+    
     hostCountry = euDriver.find_element_by_xpath(xpath).text
     hostCountry = hostCountry.split(" ")
     hostCountry1 = " ".join(hostCountry[0:-1])
-   # print(hostCountry1)
-    #print(len(country))
-   # print(hostCountry)
-   # print(hostCountry[-1])
+    
     for iteration, element in enumerate(country):
         country[iteration] = country[iteration].text
         points[iteration] = points[iteration].text
         place[iteration] = place[iteration].text
+        
     euDriver.close()
+    
     distanceList = []
+    
     for iteration, element in enumerate(country):
         distanceDriver = webdriver.Firefox(options=options)
         distanceDriver.get("https://www.freemaptools.com/how-far-is-it-between.htm")
@@ -48,14 +48,10 @@ for year in range(2000, 2020):
         submitButton.click()
         time.sleep(5)
         distanceList.append(distance.get_property('value'))
-       # print(distance.get_property('value'))
         distanceDriver.close()
-    #countryList.append([place[iteration].text, country[iteration].text, points[iteration].text, hostCountry1, hostCountry[-1], distance.get_property('value')])
+ 
     with open('eurovision'+str(year)+'.csv', 'w', newline='') as csvfile:
         country_writer = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
         for iteration, element in enumerate(country):
             country_writer.writerow([place[iteration], country[iteration], points[iteration], hostCountry1, hostCountry[-1], distanceList[iteration]])
    
-
-
-#print(table.text)
