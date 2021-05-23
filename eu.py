@@ -35,8 +35,11 @@ for year in range(2000, 2020):
     for iteration, element in enumerate(country):
         distanceDriver = webdriver.Firefox(options=options)
         distanceDriver.get("https://www.freemaptools.com/how-far-is-it-between.htm")
-        acceptCookies = distanceDriver.find_element_by_xpath("//p[@class='fc-button-label']")
-        acceptCookies.click()
+        try:
+            acceptCookies = distanceDriver.find_element_by_xpath("//p[@class='fc-button-label']")
+            acceptCookies.click()
+        except:
+            print("Unable to locate the Accept Cookies button..")
         startingPoint = distanceDriver.find_element_by_xpath("//input[@name='pointa']")
         finishingPoint = distanceDriver.find_element_by_xpath("//input[@name='pointb']")
         submitButton = distanceDriver.find_element_by_xpath("//p[@class='fmtbutton']")
