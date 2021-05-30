@@ -5,4 +5,4 @@ I thought it would be interesting to see if the old theory that countries only v
 scrapes the Eurovision website for the results from 2000-2019 and adds it to a CSV file for each year. The code also then scrapes a "distance between" website
 to get the distance between the performer's country capital and the host city. There is no doubt a more efficient way to get this information, but it does the job XD!
 
-Just the results of the final can be seen in the [eurovision.csv](https://github.com/JpPjJp/Eurovision-web-scraper/blob/main/eurovision.csv) file
+Just the results of the final for the years 2000-2019 (inclusive) can be seen in the [eurovision.csv](https://github.com/JpPjJp/Eurovision-web-scraper/blob/main/eurovision.csv) file
