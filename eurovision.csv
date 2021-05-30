@@ -1,0 +1,503 @@
+1,Denmark,195,Stockholm,2000
+2,Russia,155,Stockholm,2000
+3,Latvia,136,Stockholm,2000
+4,Estonia,98,Stockholm,2000
+5,Germany,96,Stockholm,2000
+6,Ireland,92,Stockholm,2000
+7,Sweden,88,Stockholm,2000
+8,Malta,73,Stockholm,2000
+9,Croatia,70,Stockholm,2000
+10,Turkey,59,Stockholm,2000
+11,Norway,57,Stockholm,2000
+12,Iceland,45,Stockholm,2000
+13,Netherlands,40,Stockholm,2000
+14,Austria,34,Stockholm,2000
+15,North Macedonia,29,Stockholm,2000
+16,United Kingdom,28,Stockholm,2000
+17,Romania,25,Stockholm,2000
+18,Spain,18,Stockholm,2000
+18,Finland,18,Stockholm,2000
+20,Switzerland,14,Stockholm,2000
+21,Cyprus,8,Stockholm,2000
+22,Israel,7,Stockholm,2000
+23,France,5,Stockholm,2000
+24,Belgium,2,Stockholm,2000
+1,Estonia,198,Copenhagen,2001
+2,Denmark,177,Copenhagen,2001
+3,Greece,147,Copenhagen,2001
+4,France,142,Copenhagen,2001
+5,Sweden,100,Copenhagen,2001
+6,Spain,76,Copenhagen,2001
+7,Slovenia,70,Copenhagen,2001
+8,Germany,66,Copenhagen,2001
+9,Malta,48,Copenhagen,2001
+10,Croatia,42,Copenhagen,2001
+11,Turkey,41,Copenhagen,2001
+12,Russia,37,Copenhagen,2001
+13,Lithuania,35,Copenhagen,2001
+14,Bosnia & Herzegovina,29,Copenhagen,2001
+15,United Kingdom,28,Copenhagen,2001
+16,Israel,25,Copenhagen,2001
+17,Portugal,18,Copenhagen,2001
+18,Netherlands,16,Copenhagen,2001
+18,Latvia,16,Copenhagen,2001
+20,Poland,11,Copenhagen,2001
+21,Ireland,6,Copenhagen,2001
+22,Iceland,3,Copenhagen,2001
+22,Norway,3,Copenhagen,2001
+1,Latvia,176,Tallinn,2002
+2,Malta,164,Tallinn,2002
+3,United Kingdom,111,Tallinn,2002
+3,Estonia,111,Tallinn,2002
+5,France,104,Tallinn,2002
+6,Cyprus,85,Tallinn,2002
+7,Spain,81,Tallinn,2002
+8,Sweden,72,Tallinn,2002
+9,Romania,71,Tallinn,2002
+10,Russia,55,Tallinn,2002
+11,Croatia,44,Tallinn,2002
+12,Israel,37,Tallinn,2002
+13,Bosnia & Herzegovina,33,Tallinn,2002
+13,Belgium,33,Tallinn,2002
+13,Slovenia,33,Tallinn,2002
+16,Turkey,29,Tallinn,2002
+17,Greece,27,Tallinn,2002
+18,Austria,26,Tallinn,2002
+19,North Macedonia,25,Tallinn,2002
+20,Finland,24,Tallinn,2002
+21,Germany,17,Tallinn,2002
+22,Switzerland,15,Tallinn,2002
+23,Lithuania,12,Tallinn,2002
+24,Denmark,7,Tallinn,2002
+1,Turkey,167,Riga,2003
+2,Belgium,165,Riga,2003
+3,Russia,164,Riga,2003
+4,Norway,123,Riga,2003
+5,Sweden,107,Riga,2003
+6,Austria,101,Riga,2003
+7,Poland,90,Riga,2003
+8,Iceland,81,Riga,2003
+8,Spain,81,Riga,2003
+10,Romania,73,Riga,2003
+11,Ireland,53,Riga,2003
+11,Germany,53,Riga,2003
+13,Netherlands,45,Riga,2003
+14,Ukraine,30,Riga,2003
+15,Croatia,29,Riga,2003
+16,Bosnia & Herzegovina,27,Riga,2003
+17,Greece,25,Riga,2003
+18,France,19,Riga,2003
+19,Israel,17,Riga,2003
+20,Cyprus,15,Riga,2003
+21,Estonia,14,Riga,2003
+22,Portugal,13,Riga,2003
+23,Slovenia,7,Riga,2003
+24,Latvia,5,Riga,2003
+25,Malta,4,Riga,2003
+26,United Kingdom,0,Riga,2003
+1,Ukraine,280,Istanbul,2004
+2,Serbia & Montenegro,263,Istanbul,2004
+3,Greece,252,Istanbul,2004
+4,Turkey,195,Istanbul,2004
+5,Cyprus,170,Istanbul,2004
+5,Sweden,170,Istanbul,2004
+7,Albania,106,Istanbul,2004
+8,Germany,93,Istanbul,2004
+9,Bosnia & Herzegovina,91,Istanbul,2004
+10,Spain,87,Istanbul,2004
+11,Russia,67,Istanbul,2004
+12,Malta,50,Istanbul,2004
+12,Croatia,50,Istanbul,2004
+14,North Macedonia,47,Istanbul,2004
+15,France,40,Istanbul,2004
+16,United Kingdom,29,Istanbul,2004
+17,Poland,27,Istanbul,2004
+18,Romania,18,Istanbul,2004
+19,Iceland,16,Istanbul,2004
+20,Netherlands,11,Istanbul,2004
+21,Austria,9,Istanbul,2004
+22,Belgium,7,Istanbul,2004
+22,Ireland,7,Istanbul,2004
+24,Norway,3,Istanbul,2004
+1,Greece,230,Kyiv,2005
+2,Malta,192,Kyiv,2005
+3,Romania,158,Kyiv,2005
+4,Israel,154,Kyiv,2005
+5,Latvia,153,Kyiv,2005
+6,Moldova,148,Kyiv,2005
+7,Serbia & Montenegro,137,Kyiv,2005
+8,Switzerland,128,Kyiv,2005
+9,Norway,125,Kyiv,2005
+9,Denmark,125,Kyiv,2005
+11,Croatia,115,Kyiv,2005
+12,Hungary,97,Kyiv,2005
+13,Turkey,92,Kyiv,2005
+14,Bosnia & Herzegovina,79,Kyiv,2005
+15,Russia,57,Kyiv,2005
+16,Albania,53,Kyiv,2005
+17,North Macedonia,52,Kyiv,2005
+18,Cyprus,46,Kyiv,2005
+19,Sweden,30,Kyiv,2005
+19,Ukraine,30,Kyiv,2005
+21,Spain,28,Kyiv,2005
+22,United Kingdom,18,Kyiv,2005
+23,France,11,Kyiv,2005
+24,Germany,4,Kyiv,2005
+1,Finland,292,Athens,2006
+2,Russia,248,Athens,2006
+3,Bosnia & Herzegovina,229,Athens,2006
+4,Romania,172,Athens,2006
+5,Sweden,170,Athens,2006
+6,Lithuania,162,Athens,2006
+7,Ukraine,145,Athens,2006
+8,Armenia,129,Athens,2006
+9,Greece,128,Athens,2006
+10,Ireland,93,Athens,2006
+11,Turkey,91,Athens,2006
+12,North Macedonia,56,Athens,2006
+12,Croatia,56,Athens,2006
+14,Norway,36,Athens,2006
+14,Germany,36,Athens,2006
+16,Switzerland,30,Athens,2006
+16,Latvia,30,Athens,2006
+18,Denmark,26,Athens,2006
+19,United Kingdom,25,Athens,2006
+20,Moldova,22,Athens,2006
+21,Spain,18,Athens,2006
+22,France,5,Athens,2006
+23,Israel,4,Athens,2006
+24,Malta,1,Athens,2006
+1,Serbia,268,Helsinki,2007
+2,Ukraine,235,Helsinki,2007
+3,Russia,207,Helsinki,2007
+4,Turkey,163,Helsinki,2007
+5,Bulgaria,157,Helsinki,2007
+6,Belarus,145,Helsinki,2007
+7,Greece,139,Helsinki,2007
+8,Armenia,138,Helsinki,2007
+9,Hungary,128,Helsinki,2007
+10,Moldova,109,Helsinki,2007
+11,Bosnia & Herzegovina,106,Helsinki,2007
+12,Georgia,97,Helsinki,2007
+13,Romania,84,Helsinki,2007
+14,North Macedonia,73,Helsinki,2007
+15,Slovenia,66,Helsinki,2007
+16,Latvia,54,Helsinki,2007
+17,Finland,53,Helsinki,2007
+18,Sweden,51,Helsinki,2007
+19,Germany,49,Helsinki,2007
+20,Spain,43,Helsinki,2007
+21,Lithuania,28,Helsinki,2007
+22,France,19,Helsinki,2007
+22,United Kingdom,19,Helsinki,2007
+24,Ireland,5,Helsinki,2007
+1,Russia,272,Belgrade,2008
+2,Ukraine,230,Belgrade,2008
+3,Greece,218,Belgrade,2008
+4,Armenia,199,Belgrade,2008
+5,Norway,182,Belgrade,2008
+6,Serbia,160,Belgrade,2008
+7,Turkey,138,Belgrade,2008
+8,Azerbaijan,132,Belgrade,2008
+9,Israel,124,Belgrade,2008
+10,Bosnia & Herzegovina,110,Belgrade,2008
+11,Georgia,83,Belgrade,2008
+12,Latvia,83,Belgrade,2008
+13,Portugal,69,Belgrade,2008
+14,Iceland,64,Belgrade,2008
+15,Denmark,60,Belgrade,2008
+16,Spain,55,Belgrade,2008
+17,Albania,55,Belgrade,2008
+18,Sweden,47,Belgrade,2008
+19,France,47,Belgrade,2008
+20,Romania,45,Belgrade,2008
+21,Croatia,44,Belgrade,2008
+22,Finland,35,Belgrade,2008
+23,Germany,14,Belgrade,2008
+24,Poland,14,Belgrade,2008
+25,United Kingdom,14,Belgrade,2008
+1,Norway,387,Moscow,2009
+2,Iceland,218,Moscow,2009
+3,Azerbaijan,207,Moscow,2009
+4,Turkey,177,Moscow,2009
+5,United Kingdom,173,Moscow,2009
+6,Estonia,129,Moscow,2009
+7,Greece,120,Moscow,2009
+8,France,107,Moscow,2009
+9,Bosnia & Herzegovina,106,Moscow,2009
+10,Armenia,92,Moscow,2009
+11,Russia,91,Moscow,2009
+12,Ukraine,76,Moscow,2009
+13,Denmark,74,Moscow,2009
+14,Moldova,69,Moscow,2009
+15,Portugal,57,Moscow,2009
+16,Israel,53,Moscow,2009
+17,Albania,48,Moscow,2009
+18,Croatia,45,Moscow,2009
+19,Romania,40,Moscow,2009
+20,Germany,35,Moscow,2009
+21,Sweden,33,Moscow,2009
+22,Malta,31,Moscow,2009
+23,Lithuania,23,Moscow,2009
+24,Spain,23,Moscow,2009
+25,Finland,22,Moscow,2009
+1,Germany,246,Oslo,2010
+2,Turkey,170,Oslo,2010
+3,Romania,162,Oslo,2010
+4,Denmark,149,Oslo,2010
+5,Azerbaijan,145,Oslo,2010
+6,Belgium,143,Oslo,2010
+7,Armenia,141,Oslo,2010
+8,Greece,140,Oslo,2010
+9,Georgia,136,Oslo,2010
+10,Ukraine,108,Oslo,2010
+11,Russia,90,Oslo,2010
+12,France,82,Oslo,2010
+13,Serbia,72,Oslo,2010
+14,Israel,71,Oslo,2010
+15,Spain,68,Oslo,2010
+16,Albania,62,Oslo,2010
+17,Bosnia & Herzegovina,51,Oslo,2010
+18,Portugal,43,Oslo,2010
+19,Iceland,41,Oslo,2010
+20,Norway,35,Oslo,2010
+21,Cyprus,27,Oslo,2010
+22,Moldova,27,Oslo,2010
+23,Ireland,25,Oslo,2010
+24,Belarus,18,Oslo,2010
+25,United Kingdom,10,Oslo,2010
+1,Azerbaijan,221,Düsseldorf,2011
+2,Italy,189,Düsseldorf,2011
+3,Sweden,185,Düsseldorf,2011
+4,Ukraine,159,Düsseldorf,2011
+5,Denmark,134,Düsseldorf,2011
+6,Bosnia & Herzegovina,125,Düsseldorf,2011
+7,Greece,120,Düsseldorf,2011
+8,Ireland,119,Düsseldorf,2011
+9,Georgia,110,Düsseldorf,2011
+10,Germany,107,Düsseldorf,2011
+11,United Kingdom,100,Düsseldorf,2011
+12,Moldova,97,Düsseldorf,2011
+13,Slovenia,96,Düsseldorf,2011
+14,Serbia,85,Düsseldorf,2011
+15,France,82,Düsseldorf,2011
+16,Russia,77,Düsseldorf,2011
+17,Romania,77,Düsseldorf,2011
+18,Austria,64,Düsseldorf,2011
+19,Lithuania,63,Düsseldorf,2011
+20,Iceland,61,Düsseldorf,2011
+21,Finland,57,Düsseldorf,2011
+22,Hungary,53,Düsseldorf,2011
+23,Spain,50,Düsseldorf,2011
+24,Estonia,44,Düsseldorf,2011
+25,Switzerland,19,Düsseldorf,2011
+1,Sweden,372,Baku,2012
+2,Russia,259,Baku,2012
+3,Serbia,214,Baku,2012
+4,Azerbaijan,150,Baku,2012
+5,Albania,146,Baku,2012
+6,Estonia,120,Baku,2012
+7,Turkey,112,Baku,2012
+8,Germany,110,Baku,2012
+9,Italy,101,Baku,2012
+10,Spain,97,Baku,2012
+11,Moldova,81,Baku,2012
+12,Romania,71,Baku,2012
+13,North Macedonia,71,Baku,2012
+14,Lithuania,70,Baku,2012
+15,Ukraine,65,Baku,2012
+16,Cyprus,65,Baku,2012
+17,Greece,64,Baku,2012
+18,Bosnia & Herzegovina,55,Baku,2012
+19,Ireland,46,Baku,2012
+20,Iceland,46,Baku,2012
+21,Malta,41,Baku,2012
+22,France,21,Baku,2012
+23,Denmark,21,Baku,2012
+24,Hungary,19,Baku,2012
+25,United Kingdom,12,Baku,2012
+26,Norway,7,Baku,2012
+1,Denmark,281,Malmö,2013
+2,Azerbaijan,234,Malmö,2013
+3,Ukraine,214,Malmö,2013
+4,Norway,191,Malmö,2013
+5,Russia,174,Malmö,2013
+6,Greece,152,Malmö,2013
+7,Italy,126,Malmö,2013
+8,Malta,120,Malmö,2013
+9,Netherlands,114,Malmö,2013
+10,Hungary,84,Malmö,2013
+11,Moldova,71,Malmö,2013
+12,Belgium,71,Malmö,2013
+13,Romania,65,Malmö,2013
+14,Sweden,62,Malmö,2013
+15,Georgia,50,Malmö,2013
+16,Belarus,48,Malmö,2013
+17,Iceland,47,Malmö,2013
+18,Armenia,41,Malmö,2013
+19,United Kingdom,23,Malmö,2013
+20,Estonia,19,Malmö,2013
+21,Germany,18,Malmö,2013
+22,Lithuania,17,Malmö,2013
+23,France,14,Malmö,2013
+24,Finland,13,Malmö,2013
+25,Spain,8,Malmö,2013
+26,Ireland,5,Malmö,2013
+1,Austria,290,Copenhagen,2014
+2,Netherlands,238,Copenhagen,2014
+3,Sweden,218,Copenhagen,2014
+4,Armenia,174,Copenhagen,2014
+5,Hungary,143,Copenhagen,2014
+6,Ukraine,113,Copenhagen,2014
+7,Russia,89,Copenhagen,2014
+8,Norway,88,Copenhagen,2014
+9,Denmark,74,Copenhagen,2014
+10,Spain,74,Copenhagen,2014
+11,Finland,72,Copenhagen,2014
+12,Romania,72,Copenhagen,2014
+13,Switzerland,64,Copenhagen,2014
+14,Poland,62,Copenhagen,2014
+15,Iceland,58,Copenhagen,2014
+16,Belarus,43,Copenhagen,2014
+17,United Kingdom,40,Copenhagen,2014
+18,Germany,39,Copenhagen,2014
+19,Montenegro,37,Copenhagen,2014
+20,Greece,35,Copenhagen,2014
+21,Italy,33,Copenhagen,2014
+22,Azerbaijan,33,Copenhagen,2014
+23,Malta,32,Copenhagen,2014
+24,San Marino,14,Copenhagen,2014
+25,Slovenia,9,Copenhagen,2014
+26,France,2,Copenhagen,2014
+1,Sweden,365,Vienna,2015
+2,Russia,303,Vienna,2015
+3,Italy,292,Vienna,2015
+4,Belgium,217,Vienna,2015
+5,Australia,196,Vienna,2015
+6,Latvia,186,Vienna,2015
+7,Estonia,106,Vienna,2015
+8,Norway,102,Vienna,2015
+9,Israel,97,Vienna,2015
+10,Serbia,53,Vienna,2015
+11,Georgia,51,Vienna,2015
+12,Azerbaijan,49,Vienna,2015
+13,Montenegro,44,Vienna,2015
+14,Slovenia,39,Vienna,2015
+15,Romania,35,Vienna,2015
+16,Armenia,34,Vienna,2015
+17,Albania,34,Vienna,2015
+18,Lithuania,30,Vienna,2015
+19,Greece,23,Vienna,2015
+20,Hungary,19,Vienna,2015
+21,Spain,15,Vienna,2015
+22,Cyprus,11,Vienna,2015
+23,Poland,10,Vienna,2015
+24,United Kingdom,5,Vienna,2015
+25,France,4,Vienna,2015
+26,Austria,0,Vienna,2015
+27,Germany,0,Vienna,2015
+1,Ukraine,534,Stockholm,2016
+2,Australia,511,Stockholm,2016
+3,Russia,491,Stockholm,2016
+4,Bulgaria,307,Stockholm,2016
+5,Sweden,261,Stockholm,2016
+6,France,257,Stockholm,2016
+7,Armenia,249,Stockholm,2016
+8,Poland,229,Stockholm,2016
+9,Lithuania,200,Stockholm,2016
+10,Belgium,181,Stockholm,2016
+11,Netherlands,153,Stockholm,2016
+12,Malta,153,Stockholm,2016
+13,Austria,151,Stockholm,2016
+14,Israel,135,Stockholm,2016
+15,Latvia,132,Stockholm,2016
+16,Italy,124,Stockholm,2016
+17,Azerbaijan,117,Stockholm,2016
+18,Serbia,115,Stockholm,2016
+19,Hungary,108,Stockholm,2016
+20,Georgia,104,Stockholm,2016
+21,Cyprus,96,Stockholm,2016
+22,Spain,77,Stockholm,2016
+23,Croatia,73,Stockholm,2016
+24,United Kingdom,62,Stockholm,2016
+25,Czech Republic,41,Stockholm,2016
+26,Germany,11,Stockholm,2016
+1,Portugal,758,Kyiv,2017
+2,Bulgaria,615,Kyiv,2017
+3,Moldova,374,Kyiv,2017
+4,Belgium,363,Kyiv,2017
+5,Sweden,344,Kyiv,2017
+6,Italy,334,Kyiv,2017
+7,Romania,282,Kyiv,2017
+8,Hungary,200,Kyiv,2017
+9,Australia,173,Kyiv,2017
+10,Norway,158,Kyiv,2017
+11,Netherlands,150,Kyiv,2017
+12,France,135,Kyiv,2017
+13,Croatia,128,Kyiv,2017
+14,Azerbaijan,120,Kyiv,2017
+15,United Kingdom,111,Kyiv,2017
+16,Austria,93,Kyiv,2017
+17,Belarus,83,Kyiv,2017
+18,Armenia,79,Kyiv,2017
+19,Greece,77,Kyiv,2017
+20,Denmark,77,Kyiv,2017
+21,Cyprus,68,Kyiv,2017
+22,Poland,64,Kyiv,2017
+23,Israel,39,Kyiv,2017
+24,Ukraine,36,Kyiv,2017
+25,Germany,6,Kyiv,2017
+26,Spain,5,Kyiv,2017
+1,Israel,529,Lisbon,2018
+2,Cyprus,436,Lisbon,2018
+3,Austria,342,Lisbon,2018
+4,Germany,340,Lisbon,2018
+5,Italy,308,Lisbon,2018
+6,Czech Republic,281,Lisbon,2018
+7,Sweden,274,Lisbon,2018
+8,Estonia,245,Lisbon,2018
+9,Denmark,226,Lisbon,2018
+10,Moldova,209,Lisbon,2018
+11,Albania,184,Lisbon,2018
+12,Lithuania,181,Lisbon,2018
+13,France,173,Lisbon,2018
+14,Bulgaria,166,Lisbon,2018
+15,Norway,144,Lisbon,2018
+16,Ireland,136,Lisbon,2018
+17,Ukraine,130,Lisbon,2018
+18,Netherlands,121,Lisbon,2018
+19,Serbia,113,Lisbon,2018
+20,Australia,99,Lisbon,2018
+21,Hungary,93,Lisbon,2018
+22,Slovenia,64,Lisbon,2018
+23,Spain,61,Lisbon,2018
+24,United Kingdom,48,Lisbon,2018
+25,Finland,46,Lisbon,2018
+26,Portugal,39,Lisbon,2018
+1,Netherlands,498,Tel Aviv,2019
+2,Italy,472,Tel Aviv,2019
+3,Russia,370,Tel Aviv,2019
+4,Switzerland,364,Tel Aviv,2019
+5,Sweden,334,Tel Aviv,2019
+6,Norway,331,Tel Aviv,2019
+7,North Macedonia,305,Tel Aviv,2019
+8,Azerbaijan,302,Tel Aviv,2019
+9,Australia,284,Tel Aviv,2019
+10,Iceland,232,Tel Aviv,2019
+11,Czech Republic,157,Tel Aviv,2019
+12,Denmark,120,Tel Aviv,2019
+13,Cyprus,109,Tel Aviv,2019
+14,Malta,107,Tel Aviv,2019
+15,Slovenia,105,Tel Aviv,2019
+16,France,105,Tel Aviv,2019
+17,Albania,90,Tel Aviv,2019
+18,Serbia,89,Tel Aviv,2019
+19,San Marino,77,Tel Aviv,2019
+20,Estonia,76,Tel Aviv,2019
+21,Greece,74,Tel Aviv,2019
+22,Spain,54,Tel Aviv,2019
+23,Israel,35,Tel Aviv,2019
+24,Belarus,31,Tel Aviv,2019
+25,Germany,24,Tel Aviv,2019
+26,United Kingdom,11,Tel Aviv,2019
+
