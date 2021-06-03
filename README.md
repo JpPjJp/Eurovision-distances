@@ -1,7 +1,7 @@
 # Eurovision-distances-python
 This repository uses selenium to scrape for eurovision results + pandas / matplotlib to see if countries closer to the host do better in the contest. 
 
-I thought it would be interesting to see if distance played a role in how well countries did in Eurovision! So this repository contains a web scraper for the Eurovision website to get the results from 2000-2019 and adds it to a CSV file for each year ([eu.py](https://github.com/JpPjJp/Eurovision-distances/blob/main/eu.py)). I then used pandas to add an additional column showing the distance between the performer's country capital and the host city ([distance_calc.py](https://github.com/JpPjJp/Eurovision-distances/blob/main/distance_calc.py)). 
+I thought it would be interesting to see if distance played a role in how well countries did in Eurovision! So this repository contains a web scraper for the Eurovision website to get the results from 2000-2019 and adds it to a CSV file for each year ([eu.py](https://github.com/JpPjJp/Eurovision-distances/blob/main/eu.py)). I then used pandas to add an additional column showing the distance between the performer's capital and the host city ([distance_calc.py](https://github.com/JpPjJp/Eurovision-distances/blob/main/distance_calc.py)). 
 
 Just the results of the final for the years 2000-2019 (inclusive) can be seen in the [eurovision.csv](https://github.com/JpPjJp/Eurovision-web-scraper/blob/main/eurovision.csv) file
 
