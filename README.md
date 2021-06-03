@@ -8,5 +8,5 @@ Just the results of the final for the years 2000-2019 (inclusive) can be seen in
 
 The results with the additional column containing the distance between the participant country's capital and the host city can be seen in the [results_with_distance.csv](https://github.com/JpPjJp/Eurovision-web-scraper/blob/main/results_with_distance.csv) file
 
-I then plotted the results using matplotlib. There doesn't seem to be any merit in saying that countries closest to the host do better than country's further away.
+I then plotted the results using matplotlib. There seems to be a little merit in saying that countries closest to the host do better than country's further away.
 ![results](https://github.com/JpPjJp/Eurovision-web-scraper/blob/main/eurovision%20plot.png)
